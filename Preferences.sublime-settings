@@ -1,16 +1,16 @@
 {
-	"bold_folder_labels": true,
 	"theme": "Soda Dark.sublime-theme",
 	"soda_classic_tabs": true,
-	"draw_white_space": "all",
-	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Bitstream Vera Sans Mono",
 	"font_size": 12,
+	"indent_to_bracket": true,
+	"draw_white_space": "all",
+	"match_brackets_angle": true,
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
+	"bold_folder_labels": true,
 	"ignored_packages":
 	[
 	],
-	"indent_to_bracket": true,
-	"match_brackets_angle": true,
-	"trim_trailing_white_space_on_save": true,
 	"vintage_start_in_command_mode": true
 }
