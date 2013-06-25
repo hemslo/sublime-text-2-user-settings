@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"Alignment",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"GBK Encoding Support",
@@ -9,7 +10,10 @@
 		"Jade",
 		"Jade Snippets",
 		"Package Control",
+		"RSpec",
+		"RuboCop",
 		"SideBarEnhancements",
+		"SideBarGit",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Theme - Soda",
