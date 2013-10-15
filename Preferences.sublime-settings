@@ -2,8 +2,8 @@
 	"bold_folder_labels": true,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
-	"font_face": "Bitstream Vera Sans Mono",
-	"font_size": 12,
+	"font_face": "DejaVu Sans Mono",
+	"font_size": 14,
 	"highlight_line": true,
 	"ignored_packages":
 	[
