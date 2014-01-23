@@ -2,7 +2,9 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"CoffeeScript",
 		"ConvertToUTF8",
+		"CTags",
 		"DocBlockr",
 		"ERB Snippets",
 		"GBK Encoding Support",
