@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Arduino-like IDE",
 		"CoffeeScript",
 		"ConvertToUTF8",
 		"CTags",
@@ -19,6 +20,7 @@
 		"SideBarEnhancements",
 		"SideBarGit",
 		"SublimeCodeIntel",
+		"SublimeERB",
 		"SublimeLinter",
 		"Theme - Soda",
 		"VintageEx"
