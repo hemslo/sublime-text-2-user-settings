@@ -3,6 +3,7 @@
 	[
 		"Alignment",
 		"Arduino-like IDE",
+		"AutoPEP8",
 		"CoffeeScript",
 		"ConvertToUTF8",
 		"CTags",
@@ -11,6 +12,7 @@
 		"GBK Encoding Support",
 		"Git",
 		"Hex to HSL Color Converter",
+		"HexViewer",
 		"Jade",
 		"Jade Snippets",
 		"Package Control",
